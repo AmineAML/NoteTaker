@@ -1,0 +1,13 @@
+C:\Users\HP\Documents\Développement informatique\C#\NoteTaker\NoteTaker\NoteTaker\bin\Debug\NoteTaker.exe.config
+C:\Users\HP\Documents\Développement informatique\C#\NoteTaker\NoteTaker\NoteTaker\bin\Debug\NoteTaker.exe.manifest
+C:\Users\HP\Documents\Développement informatique\C#\NoteTaker\NoteTaker\NoteTaker\bin\Debug\NoteTaker.application
+C:\Users\HP\Documents\Développement informatique\C#\NoteTaker\NoteTaker\NoteTaker\bin\Debug\NoteTaker.exe
+C:\Users\HP\Documents\Développement informatique\C#\NoteTaker\NoteTaker\NoteTaker\bin\Debug\NoteTaker.pdb
+C:\Users\HP\Documents\Développement informatique\C#\NoteTaker\NoteTaker\NoteTaker\obj\Debug\NoteTaker.Properties.Resources.resources
+C:\Users\HP\Documents\Développement informatique\C#\NoteTaker\NoteTaker\NoteTaker\obj\Debug\NoteTaker.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Développement informatique\C#\NoteTaker\NoteTaker\NoteTaker\obj\Debug\NoteTaker.exe.manifest
+C:\Users\HP\Documents\Développement informatique\C#\NoteTaker\NoteTaker\NoteTaker\obj\Debug\NoteTaker.application
+C:\Users\HP\Documents\Développement informatique\C#\NoteTaker\NoteTaker\NoteTaker\obj\Debug\NoteTaker.exe
+C:\Users\HP\Documents\Développement informatique\C#\NoteTaker\NoteTaker\NoteTaker\obj\Debug\NoteTaker.pdb
+C:\Users\HP\Documents\Développement informatique\C#\NoteTaker\NoteTaker\NoteTaker\obj\Debug\NoteTaker.TrustInfo.xml
+C:\Users\HP\Documents\Développement informatique\C#\NoteTaker\NoteTaker\NoteTaker\obj\Debug\NoteTakerProject.NoteTaker.resources

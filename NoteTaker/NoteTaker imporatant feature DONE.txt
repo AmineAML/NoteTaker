@@ -1,0 +1,23 @@
+If a note was deleted the app should be able to re-use its numéritation, to do that it should re-organize the notes like this:
+
+
+1) Note one
+(IF THIS WAS REMOVED)2) Note two
+3) Note three
+
+
+
+
+to this
+
+
+1) Note one
+2) Note three
+
+
+So if a new note was added then:
+
+
+1) Note one
+2) Note three
+3) Note four
