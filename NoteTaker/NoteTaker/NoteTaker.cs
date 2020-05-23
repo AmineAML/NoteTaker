@@ -143,7 +143,7 @@ namespace NoteTakerProject
                     }
                     else if(dialogResult == DialogResult.No)
                     {
-                        MessageBox.Show("File was not created!\r\nNote was note saved!");
+                        MessageBox.Show("File was not created!\r\nNote was not saved!");
                     }
                 }
             }

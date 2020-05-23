@@ -1,2 +1,0 @@
-Rather than the "NoteTaker" name, a "BrainStorming" name would fit better so the user can use it 
-to note his ideas and thoughts
